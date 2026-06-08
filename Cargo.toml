@@ -4,9 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-array2d = "0.3.2"
-env_logger = "0.11.10"
 pixels = "0.17.1"
-pollster = "0.4.0"
 rayon = "1.12.0"
 winit = "0.30.13"
