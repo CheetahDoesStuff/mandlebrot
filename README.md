@@ -1,3 +1,6 @@
+## Important!
+This was just an experiment, will not be maintailed!!
+
 # Mandlebrot
 **A simple mandlebrot visaulisation made to learn the pixels crate**  
 Watch the video below for a showcase:
